@@ -1,4 +1,4 @@
-# MIGHTEE-SSL-AGN-SFG
+# Semi-supervised-radio-classification
 
 Semi-supervised learning for AGN/SFG classification in the MIGHTEE-COSMOS radio survey.
 
