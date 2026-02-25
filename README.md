@@ -4,7 +4,7 @@ Semi-supervised learning for AGN/SFG classification in the MIGHTEE-COSMOS radio 
 
 ## Overview
 
-This repository contains code and data for the paper **"Exploiting minimal labels for radio source classification: semi-supervised learning in the MIGHTEE-COSMOS field"** by V. Asadi (MNRAS, 2026). 
+This repository contains code and data for the paper **"Exploiting minimal labels for radio source classification: semi-supervised learning in the MIGHTEE-COSMOS field"** by V. Asadi (2026). 
 
 We present a clustering-based semi-supervised learning framework that classifies radio sources as AGN or star-forming galaxies (SFGs) using only 50 labeled sources—just 1.6% of the training pool.
 
